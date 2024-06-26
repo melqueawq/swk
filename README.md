@@ -14,3 +14,6 @@ Because it contains sudo, install script requires administrator privileges.
 rm -rf ~/.swk
 sudo rm /usr/local/bin/swk
 ```
+
+# sample
+![swksample](https://github.com/melqueawq/swk/assets/53829090/3fb3db63-f876-4516-91b2-c211c91436fb)
